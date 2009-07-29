@@ -1,1 +1,1 @@
-require 'lib/wapcaplet' if RAILS_ENV == 'test'
+require 'wapcaplet' if RAILS_ENV == 'test'
